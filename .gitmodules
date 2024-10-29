@@ -1,0 +1,6 @@
+[submodule "todo-frontend"]
+	path = todo-frontend
+	url = git@github.com:Luckykarter/todo-frontend.git
+[submodule "notes-manager"]
+	path = notes-manager
+	url = git@github.com:TheBakler/notes-manager.git
